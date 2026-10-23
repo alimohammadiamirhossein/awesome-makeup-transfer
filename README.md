@@ -66,6 +66,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 ### Hairstyles Transfer
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|
+| [HairPort: In-context 3D-aware Hair Import and Transfer for Images](https://arxiv.org/abs/2606.12562)| SIGGRAPH | 2026 |[Page](https://deepmancer.github.io/HairPort/), [GitHub](https://github.com/deepmancer/HairPort)|
 | [K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification](https://arxiv.org/abs/2102.06288)| ICIP | 2021 |[Page](https://psh01087.github.io/K-Hairstyle/)|
 | [Barbershop: GAN-based Image Compositing using Segmentation Masks](https://arxiv.org/abs/2106.01505)| SIGGRAPH| 2021|[Page](https://zpdesu.github.io/Barbershop/),[GitHub](https://github.com/ZPdesu/Barbershop)|
 | [LOHO: Latent Optimization of Hairstyles via Orthogonalization](https://arxiv.org/abs/2103.03891)| CVPR | 2021 |[GitHub](https://github.com/dukebw/LOHO)|
@@ -76,6 +77,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 | Name     | Year     | #imgs    | Link     | Note     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+|Baldy | 2026 | 6,000 pairs | [HuggingFace](https://huggingface.co/datasets/deepmancer/baldy)| w/ [HairPort](https://deepmancer.github.io/HairPort/), paired bald/original|
 |Color-Pattern-Makeup Datasets | 2021 | 577-5555 | [GitHub](https://github.com/VinAIResearch/CPM#datasets)| w/ [CPM](https://thaoshibe.github.io/CPM), 4 subsets|
 |Makeup-Wild| 2020    |   772    | [OneDrive](https://buaaeducn-my.sharepoint.com/personal/jiangwentao_buaa_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjiangwentao_buaa_edu_cn%2FDocuments%2FMakeup-Wild%2Ezip&parent=%2Fpersonal%2Fjiangwentao_buaa_edu_cn%2FDocuments&originalPath=aHR0cHM6Ly9idWFhZWR1Y24tbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvamlhbmd3ZW50YW9fYnVhYV9lZHVfY24vRWNSTmtGMmJGWTlBb21mTWZ5ZF9CMkFCVXlaN1B0U2VZb3FGSktKYlZ2d01IZz9ydGltZT1FM3dBc3RtMjJFZw)|w/ [PSGAN](https://github.com/wtjiang98/PSGAN)|
 |LADN Makeup | 2019 | 635 | [Drive](https://drive.google.com/file/d/1gygDQarCOZ7E4qptvTyYF_iZNxsJ4WnI/view)| w/ [LADN](https://github.com/wangguanzhi/LADN)|
